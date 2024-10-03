@@ -1,7 +1,3 @@
-This SQL script provides a comprehensive analysis of coffee shop sales, helping businesses uncover critical insights about their sales performance. Here's an attractive description of the script's functionality:
-
----
-
 ### Coffee Shop Sales Analysis Script
 
 This SQL script enables coffee shop owners and managers to gain actionable insights into sales performance across multiple dimensions. By organizing sales data efficiently and transforming transaction details, this script allows businesses to track trends and evaluate performance through the following key features:
